@@ -7,4 +7,4 @@
 
 ## My Projects
 - 🫶 The MajorBBS Emulation Project ([Repo](https://github.com/mbbsemu/MBBSEmu) | [Website](https://www.mbbsemu.com/))
-- 🕹️ ADNES, a Nintendo Emulator written in C# within a NuGet package ([Repo](https://github.com/enusbaum/adnes))
+- 🕹️ ADNES, a Nintendo Emulator written in C# within a NuGet package ([NuGet](https://www.nuget.org/packages/ADNES) | [Repo](https://github.com/enusbaum/adnes))
