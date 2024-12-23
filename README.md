@@ -8,5 +8,5 @@
 ## My Projects
 - 🫶 The MajorBBS Emulation Project ([Repo](https://github.com/mbbsemu/MBBSEmu) | [Website](https://www.mbbsemu.com/))
 - 🕹️ ADNES, a Nintendo Emulator written in C# contained within a NuGet package ([Repo](https://github.com/enusbaum/adnes) | [NuGet](https://www.nuget.org/packages/ADNES))
-- 📱 ADNES.MAUI, a .NET MAUI cross-platform frontend for the ADNES Nintendo Emulator NuGet Package ([Repo](https://github.com/enusbaum/adnes.maui) 
+- 📱 ADNES.MAUI, a cross-platform .NET MAUI frontend for the ADNES Nintendo Emulator ([Repo](https://github.com/enusbaum/adnes.maui))
 - 📁 ENusbaum.Torrent, a simple dotnet library for creating .torrent files ([Repo](https://github.com/enusbaum/ENusbaum.Torrent) | [NuGet](https://www.nuget.org/packages/ENusbaum.Torrent))
