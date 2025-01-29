@@ -10,3 +10,4 @@
 - 🕹️ ADNES, a Nintendo Emulator written in C# contained within a NuGet package ([Repo](https://github.com/enusbaum/adnes) | [NuGet](https://www.nuget.org/packages/ADNES))
 - 📱 ADNES.MAUI, a cross-platform .NET MAUI frontend for the ADNES Nintendo Emulator ([Repo](https://github.com/enusbaum/adnes.maui))
 - 📁 ENusbaum.Torrent, a simple dotnet library for creating .torrent files ([Repo](https://github.com/enusbaum/ENusbaum.Torrent) | [NuGet](https://www.nuget.org/packages/ENusbaum.Torrent))
+- ⚾ Junk Wax Detection, a Machine Learning Obect Detection Model trained to identify "Junk Wax" Baseball Cards (1985-1995) by set ([Repo](https://github.com/JunkWaxData/JunkWaxDetection) | [HuggingFace🤗](https://huggingface.co/spaces/enusbaum/JunkWaxHero-Space))
