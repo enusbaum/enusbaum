@@ -3,7 +3,7 @@
 - 👀 I’m interested in Retro Computing, Emulation, Bulletin Board Systems, and Reverse Engineering
 - 🌱 I’m continually learning C# and x86 Assember
 - 💞️ I’m looking to collaborate on projects that help preserve and enable greater access to Retro Computing and Bulletin Board Systems
-- 📫 How to reach me: 🐘 [@enusbaum@tootsmcgoots.io](https://tootsmcgoots.io/@enusbaum) or ✉️ [eric@nusbaum.me](mailto:eric@nusbaum.me)
+- 📫 How to reach me: 🦋 [@nusbaum.me]([https://tootsmcgoots.io/@enusbaum](https://bsky.app/profile/nusbaum.me)) or ✉️ [eric@nusbaum.me](mailto:eric@nusbaum.me)
 
 ## My Projects
 - 🫶 MBBSEmu, a cross-platform emulator to run Modules for DOS versions of The MajorBBS & Worldgroup ([Repo](https://github.com/mbbsemu/MBBSEmu) | [Website](https://www.mbbsemu.com/))
